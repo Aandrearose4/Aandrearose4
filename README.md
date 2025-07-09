@@ -3,7 +3,7 @@
 <h3 align="center">🎓 Computer Science Student | 💡 Tech Explorer | 🎤 Creative Spirit</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Upcoming+B.Tech+Graduate+(2026)"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Upcoming+B.Tech+Graduate+(2026);Full-Stack+%26+AI+Enthusiast;Let%27s+Build+Something+Awesome+Together!" />
 </p>
 
 ---
@@ -18,27 +18,34 @@
 
 ### 💼 Projects
 
-
-#### 📰 [AD-EASY – Newspaper Ad Platform]
+#### 📰 [AD-EASY – Newspaper Ad Platform](https://github.com/Aandrearose4/ADEASY)
 > Full-stack platform that streamlines newspaper ad submissions.  
 🛠️ **Tech**: Django · Firebase · HTML/CSS/JS  
 📌 Dynamic edition selection · Cost estimate tracker · Feedback system
-📦 [View Project Repo]([https://github.com/yourusername/ad-easy](https://github.com/Aandrearose4/ADEASY)
----
 
-#### 🔮 [Next Word Prediction System](https://github.com/yourusername/next-word-predictor)
+#### 🔮 [Next Word Prediction System](https://github.com/Aandrearose4/Next-Word-Prediction)
 > A predictive text model that suggests the next word(s) based on user input.  
 🛠️ **Tools**: Python · NLP · Streamlit  
-✨ Demo GIF (add one!)  
-📦 [View Project Repo]([https://github.com//next-word-predictor](https://github.com/Aandrearose4/Next-Word-Prediction)
+✨ Live demo coming soon  
+📦 [View Project Repo](https://github.com/Aandrearose4/Next-Word-Prediction)
 
+---
 
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,django,firebase,git,c" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,django,firebase,streamlit,git,c" />
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aandrearose4&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aandrearose4&layout=compact&theme=radical" width="48%" />
+</p>
+
 ---
+
 <sub><p align="center">Made with 💙 by Andrea Rose Joseph | Powered by creativity, curiosity, and chai ☕</p></sub>
