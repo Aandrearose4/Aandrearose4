@@ -3,7 +3,7 @@
 <h3 align="center">🎓 Computer Science Student | 💡 Tech Explorer | 🎤 Creative Spirit</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Upcoming+B.Tech+Graduate+(2026);Full-Stack+%26+AI+Enthusiast;Let%27s+Build+Something+Awesome+Together!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Upcoming+B.Tech+Graduate+(2026)" />
 </p>
 
 ---
