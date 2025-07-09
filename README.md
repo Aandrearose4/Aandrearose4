@@ -46,4 +46,4 @@
 
 ---
 
-<sub><p align="center">Made with 💙 by Andrea Rose Joseph | Powered by creativity, curiosity, and chai ☕</p></sub>
+<sub><p align="center">Made with 💙 by Andrea Rose Joseph </p></sub>
