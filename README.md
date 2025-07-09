@@ -1,40 +1,59 @@
-<h1 align="center">Hi 👋, I'm Andrea Rose Joseph</h1>
-<h3 align="center">Aspiring Full-Stack Developer | B.Tech CS (Class of 2026)</h3>
+<h1 align="center">👋 Hey there, I'm Andrea Rose Joseph</h1>
+<h3 align="center">🎓 Computer Science Student | 💡 Tech Explorer | 🎤 Creative Spirit</h3>
 
 <p align="center">
-  🌱 Passionate about turning ideas into impactful software.<br>
-  🎯 Currently building apps in Django, Firebase, Streamlit, and Python.<br>
-  ✨ Always exploring new tech and real-world applications of AI.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Upcoming+B.Tech+Graduate+(2026);Full-Stack+Dev+in+Training;AI+%2F+Streamlit+Enthusiast;Open+to+Tech+Internships+%26+Collabs" alt="Typing SVG" />
 </p>
+
+---
+
+### 🧠 About Me
+
+🌟 Energetic and detail-oriented techie, passionate about real-world applications of computer science.  
+🚀 I enjoy building tools that make people’s lives easier — from predictive models to web platforms.  
+🎯 Open to learning, collaborating, and contributing with a positive, curious mindset.
 
 ---
 
 ### 💼 Projects
 
-- 🚀 **AD-EASY** – Newspaper Ad & News Submission Platform  
-  _A full-stack web app that streamlines the submission and tracking of newspaper ads._  
-  🔹 Dynamic newspaper edition selection  
-  🔹 Real-time cost estimation & feedback portal  
-  🔹 Built with Django + Firebase + HTML/CSS/JS
+#### 🔮 [Next Word Prediction System](https://github.com/yourusername/next-word-predictor)
+> A predictive text model that suggests the next word(s) based on user input.  
+🛠️ **Tools**: Python · NLP · Streamlit  
+✨ Demo GIF (add one!)  
+📦 [View Project Repo]([https://github.com//next-word-predictor](https://github.com/Aandrearose4/Next-Word-Prediction)
 
-- 🔮 **Next Word Prediction System**  
-  _A predictive text model that suggests the next word(s) based on user input._  
-  🔹 Built with NLP & Streamlit  
-  🔹 Useful for writing support, chat, and assistive tech tools
+#### 📰 [AD-EASY – Newspaper Ad Platform]([https://github.com/yourusername/ad-easy](https://github.com/Aandrearose4/ADEASY))
+> Full-stack platform that streamlines newspaper ad submissions.  
+🛠️ **Tech**: Django · Firebase · HTML/CSS/JS  
+📌 Dynamic edition selection · Cost estimate tracker · Feedback system
+
+---
+
+### 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,django,firebase,streamlit,git,c" />
+</p>
 
 ---
 
-### 🛠️ Technical Skills
+### 📊 GitHub Stats
 
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Python, Django  
-- **Database/Cloud**: Firebase  
-- **Languages**: C, Python  
-- **Tools**: Streamlit, Git, Canva
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
 
+### 🤝 Let's Connect!
+
+<p align="center">
+  <a href="mailto:aandrearose4@gmail.com"><img src="https://img.shields.io/badge/Gmail-aandrearose4@gmail.com-red?style=flat&logo=gmail"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=flat&logo=linkedin"></a>
+</p>
+
+---
+
+<sub><p align="center">Made with 💙 by Andrea Rose Joseph | Powered by creativity, curiosity, and chai ☕</p></sub>
