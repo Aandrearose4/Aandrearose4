@@ -32,7 +32,7 @@
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,django,firebase,streamlit,git,c" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,django,firebase,git,c" />
 </p>
 
 ---
