@@ -1,10 +1,7 @@
 <h1 align="center">
-  <span style="color:#f97316;">✨ Hi, I’m <span style="animation: blink 1s step-end infinite;">Andrea Rose Joseph</span> 👋</span>
+  <span style="color:#f97316;">✨ Hi, I’m <span style="animation: blink 1s step-end infinite;">━━━━━━━━━ 🌸 Andrea Rose Joseph 🌸 ━━━━━━━━━<</span> 👋</span>
 </h1>
 <h3 align="center">🎓 Computer Science Student | 💡 Tech Explorer | 🎤 Creative Spirit</h3>
-
-
-<h3 align="center">👩‍💻 Computer Science Student | B.Tech CSE 2026 | Full-Stack & AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Upcoming+B.Tech+Graduate+(2026)" />
