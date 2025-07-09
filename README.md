@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=2000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=✨+Andrea+Rose+Joseph+✨" />
-</p>
+<h1 align="center">
+  <span style="color:#f97316;">✨ Hi, I’m <span style="animation: blink 1s step-end infinite;">Andrea Rose Joseph</span> 👋</span>
+</h1>
+<h3 align="center">🎓 Computer Science Student | 💡 Tech Explorer | 🎤 Creative Spirit</h3>
+
 
 <h3 align="center">👩‍💻 Computer Science Student | B.Tech CSE 2026 | Full-Stack & AI Enthusiast</h3>
 
