@@ -5,7 +5,7 @@
 <h3 align="center">🎓 Computer Science Student | 💡 Tech Explorer | 🎤 Creative Spirit</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Upcoming+B.Tech+Graduate+(2026);Full-Stack+Dev+in+Training;AI+%2F+Streamlit+Enthusiast;Open+to+Tech+Internships+%26+Collabs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Upcoming+B.Tech+Graduate+(2026);alt="Typing SVG" />
 </p>
 
 ---
