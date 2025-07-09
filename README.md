@@ -1,7 +1,9 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Andrea+Rose+Joseph;B.Tech+CS+Student+%7C+AI+Lover+%7C+Dev+in+Training;Let's+Build+Something+Awesome+Together!">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
+  <h1 align="center"><strong style="font-size: 48px;">Hey there, I'm Andrea Rose Joseph</strong></h1>
 </p>
+
+<h3 align="center">🎓 Computer Science Student | 💡 Tech Explorer | 🎤 Creative Spirit</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Upcoming+B.Tech+Graduate+(2026)" />
