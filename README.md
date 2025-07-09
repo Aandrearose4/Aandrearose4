@@ -27,8 +27,6 @@
 > A predictive text model that suggests the next word(s) based on user input.  
 🛠️ **Tools**: Python · NLP · Streamlit  
 ✨ Live demo coming soon  
-📦 [View Project Repo](https://github.com/Aandrearose4/Next-Word-Prediction)
-
 ---
 
 ### 🧰 Tech Toolbox
