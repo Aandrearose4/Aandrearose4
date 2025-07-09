@@ -1,6 +1,7 @@
-<h1 align="center">
-  <span style="color:#f97316;">✨ Hi, I’m <span style="animation: blink 1s step-end infinite;">━━━━━━━━━ 🌸 Andrea Rose Joseph 🌸 ━━━━━━━━━<</span> 👋</span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Andrea+Rose+Joseph+%F0%9F%91%8B;Welcome+to+my+creative+corner+on+GitHub!+%F0%9F%8C%9F" />
+</p>
+
 <h3 align="center">🎓 Computer Science Student | 💡 Tech Explorer | 🎤 Creative Spirit</h3>
 
 <p align="center">
