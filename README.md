@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
-  <strong><em>Hi there! I'm Andrea Rose Joseph 👩‍💻</em></strong>
-</p>
+<h1 align="center">
+  <span style="color:#f97316;">✨ Hi, I’m <span style="animation: blink 1s step-end infinite;">Andrea Rose Joseph</span> 👋</span>
+</h1>
+
 <h3 align="center">🎓 Computer Science Student | 💡 Tech Explorer | 🎤 Creative Spirit</h3>
 
 <p align="center">
@@ -25,7 +25,7 @@
 > Full-stack platform that streamlines newspaper ad submissions.  
 🛠️ **Tech**: Django · Firebase · HTML/CSS/JS  
 📌 Dynamic edition selection · Cost estimate tracker · Feedback system
-📦 [View Project Repo]([https://github.com/yourusername/ad-easy](https://github.com/Aandrearose4/ADEASY))
+📦 [View Project Repo]([https://github.com/yourusername/ad-easy](https://github.com/Aandrearose4/ADEASY)
 ---
 
 #### 🔮 [Next Word Prediction System](https://github.com/yourusername/next-word-predictor)
@@ -38,7 +38,7 @@
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,django,firebase,streamlit,git,c" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,django,firebase,git,c" />
 </p>
 
 ---
