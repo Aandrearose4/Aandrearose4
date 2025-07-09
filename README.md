@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hey there, I'm Andrea Rose Joseph</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
+  <strong><em>Hi there! I'm Andrea Rose Joseph 👩‍💻</em></strong>
+</p>
 <h3 align="center">🎓 Computer Science Student | 💡 Tech Explorer | 🎤 Creative Spirit</h3>
 
 <p align="center">
@@ -17,18 +20,20 @@
 
 ### 💼 Projects
 
+
+#### 📰 [AD-EASY – Newspaper Ad Platform]
+> Full-stack platform that streamlines newspaper ad submissions.  
+🛠️ **Tech**: Django · Firebase · HTML/CSS/JS  
+📌 Dynamic edition selection · Cost estimate tracker · Feedback system
+📦 [View Project Repo]([https://github.com/yourusername/ad-easy](https://github.com/Aandrearose4/ADEASY))
+---
+
 #### 🔮 [Next Word Prediction System](https://github.com/yourusername/next-word-predictor)
 > A predictive text model that suggests the next word(s) based on user input.  
 🛠️ **Tools**: Python · NLP · Streamlit  
 ✨ Demo GIF (add one!)  
 📦 [View Project Repo]([https://github.com//next-word-predictor](https://github.com/Aandrearose4/Next-Word-Prediction)
 
-#### 📰 [AD-EASY – Newspaper Ad Platform]([https://github.com/yourusername/ad-easy](https://github.com/Aandrearose4/ADEASY))
-> Full-stack platform that streamlines newspaper ad submissions.  
-🛠️ **Tech**: Django · Firebase · HTML/CSS/JS  
-📌 Dynamic edition selection · Cost estimate tracker · Feedback system
-
----
 
 ### 🧰 Tech Toolbox
 
@@ -37,23 +42,5 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%" />
-</p>
-
 ---
-
-### 🤝 Let's Connect!
-
-<p align="center">
-  <a href="mailto:aandrearose4@gmail.com"><img src="https://img.shields.io/badge/Gmail-aandrearose4@gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=flat&logo=linkedin"></a>
-</p>
-
----
-
 <sub><p align="center">Made with 💙 by Andrea Rose Joseph | Powered by creativity, curiosity, and chai ☕</p></sub>
