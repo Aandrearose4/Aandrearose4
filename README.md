@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Andrea+Rose+Joseph+%F0%9F%91%8B;Welcome+to+my+creative+corner+on+GitHub!+%F0%9F%8C%9F" />
-</p>
+<h1 align="center">🌸 Hi there! I'm <em>Andrea Rose Joseph</em> 🌸</h1>
 
 <h3 align="center">🎓 Computer Science Student | 💡 Tech Explorer | 🎤 Creative Spirit</h3>
 
